@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou o Natan 👋</h1>
+<h1 align="left">Olá! Eu sou o Natan 👋</h1>
 
 ---
 
@@ -13,7 +13,7 @@
 
 ### 🛠️ Tecnologias que estou aprendendo e usando
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
