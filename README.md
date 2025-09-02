@@ -4,10 +4,9 @@
 
 ### 🚀 Sobre mim
 
-- 💼 Atualmente em transição de carreira para a área de **Tecnologia**  
-- 📚 Estudando **React.js**, **TypeScript**, **Node.js**, **Java**, **Next.js**, **PostgreSQL**, **MongoDB** e **Prisma**
+- 📚 Foco em Desenvolvimento FullStack, com **React.js**, **TypeScript**, **Node.js**, **Java**, **Next.js**, **PostgreSQL**, **MongoDB** e **Prisma**
 - 🧠 Foco em evolução, boas práticas e código limpo
-- 🎯 Buscando minha primeira oportunidade como **desenvolvedor júnior**
+- 🎯 Pronto para contribuir em projetos reais e agregar valor com dedicação e aprendizado contínuo
 
 ---
 
