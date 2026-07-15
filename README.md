@@ -13,7 +13,7 @@
 ## 🛠️ Tecnologias que utilizo
 
 <p>
-<img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,nextjs,react,java,postgres,mongodb,prisma" />
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,nextjs,react,postgres,mongodb,prisma,aws,html,css,figma,swift,kotlin" />
 </p>
 
 ---
